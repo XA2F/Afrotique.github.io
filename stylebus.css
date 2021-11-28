@@ -5,7 +5,8 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background0-image:linear-gradient(rgba(4,0,30,0.7))
+    background0-image:linear-
+        gradient(rgba(4,0,30,0.7)),url(image/);
 }
 
 
