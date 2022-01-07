@@ -23,7 +23,7 @@ p {
 
 header{
     background-image: url(lenoir.jpg);
-    height: 200 vh;
+    height: -50 vh;
     background-size: cover;
     backgground-position: center;
 }
