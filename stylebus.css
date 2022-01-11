@@ -1,10 +1,10 @@
 
 body {
-  background-color:#000;
+  background-color:#575555;
 }
 
 h1 {
-  color: white;
+  color: OrangeRed;
   text-align: left;
 }
 
@@ -13,23 +13,12 @@ p {
   font-size: 20px;
 }
 
-
-*{
-    height:1vh;
-    margin: -1;
-    padding: 2;
-    font-family: Century Gothic
-}
-
-header{
+ul{
     background-image: url(lenoir.jpg);
     height: -50 vh;
     background-size: cover;
     backgground-position: center;
-}
-
-ul{
-    float: right;
+    float: left;
     list-style-type: none;
 }
 
@@ -55,10 +44,7 @@ ul li a:hover{
 }
 
 
-
-
-
-
+    
 
 
 
